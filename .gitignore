@@ -1,0 +1,5 @@
+*.env
+*.key
+id_ed25519
+secrets.txt
+*.pcap
