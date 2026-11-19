@@ -1,6 +1,6 @@
 # cy-lab-work-portfolio
 
-\## About 
+\## About
 
 this repo holds my lab work
 
@@ -10,7 +10,9 @@ Application of information and communication technology
 
 \##Contents
 
-file 1
+git-command-notes.md
 
-file 2
+security-notes.md
+
+.gitignore
 
